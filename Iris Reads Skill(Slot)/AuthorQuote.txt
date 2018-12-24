@@ -1,0 +1,10 @@
+
+AuthorQuote
+
+                        "get a quotation from {author}",
+                        "get a quote from {author}",
+                        "get a quote of {author}",
+                        "I need a quote by {author}",
+                        "what did {author} say",
+                        "tell me a quotation from {author}"
+

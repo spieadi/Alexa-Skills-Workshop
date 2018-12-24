@@ -1,0 +1,9 @@
+RandomQuote
+
+                        "random quote",
+                        "tell me a random quote",
+                        "tell me a quote",
+                        "give me a quote",
+                        "random quotation"
+
+
